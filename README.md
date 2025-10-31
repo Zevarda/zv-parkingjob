@@ -15,7 +15,6 @@ Any player can become a "parking attendant" by using the whistle, and others can
 - Owners can delete their zones anytime.  
 - **Discord webhook logs** when players escape without paying.  
 - **Anti-spam cooldowns** and per-player limits.  
-- Integration-ready with **Cruze Garages** for impound.  
 
 ## Installation
 1. Clone or download this repository into your `resources` folder.  
